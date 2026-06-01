@@ -1,0 +1,12 @@
+.env
+.chroma/
+notes/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+eval_report.json
